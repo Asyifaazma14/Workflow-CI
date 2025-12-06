@@ -1,0 +1,11 @@
+name: sleep_health_env
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - mlflow==2.19.0
+    - scikit-learn
+    - pandas
+    - numpy

@@ -1,0 +1,33 @@
+{
+    "columns": [
+        "Person ID",
+        "Gender",
+        "Age",
+        "Occupation",
+        "Sleep Duration",
+        "Quality of Sleep",
+        "Physical Activity Level",
+        "Stress Level",
+        "BMI Category",
+        "Blood Pressure",
+        "Heart Rate",
+        "Daily Steps",
+        "Sleep Disorder"
+    ],
+    "dtypes": {
+        "Person ID": "int64",
+        "Gender": "object",
+        "Age": "int64",
+        "Occupation": "object",
+        "Sleep Duration": "float64",
+        "Quality of Sleep": "int64",
+        "Physical Activity Level": "int64",
+        "Stress Level": "int64",
+        "BMI Category": "object",
+        "Blood Pressure": "object",
+        "Heart Rate": "int64",
+        "Daily Steps": "int64",
+        "Sleep Disorder": "object"
+    },
+    "num_rows": 155
+}
